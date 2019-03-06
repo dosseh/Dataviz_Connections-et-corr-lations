@@ -8,7 +8,7 @@
 
 |Nom|Prénom|login|email|
 |--|--|--|--|
-| *KOUTO* | *Dosseh* | *dosseh* | *dosseh.kouto@yahoo.fr* |
+| *KOUTO* | *Dosseh* | *dosseh* | *dossehkouto@yahoo.fr* |
 
 
 ## Travail à réaliser
